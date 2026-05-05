@@ -24,7 +24,7 @@ const PROFILE = {
   name: "Senti Aura",
   bio: "Descubre tu fragancia ideal. Perfumería exclusiva con marcas de primer nivel.",
   // Sube tu archivo logo.jpg a la carpeta "public" en el panel lateral (puedes crear la carpeta si no existe)
-  avatar: "/logo.jpg", // o usa la URL web de tu imagen aquí
+  avatar: "logo.jpg", // o usa la URL web de tu imagen aquí
 };
 
 const MAIN_LINKS = [
